@@ -1,0 +1,12 @@
+*__pycache__*
+*.m
+*.s
+*.smt
+*.btor2
+selfie
+selfie-32
+selfie.h
+selfie.exe
+babysat
+monster
+modeler
