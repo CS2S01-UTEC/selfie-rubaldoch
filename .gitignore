@@ -1,0 +1,14 @@
+*__pycache__*
+*.m
+*.s
+*.smt
+*.btor2
+*.h
+*.x86
+selfie
+selfie.exe
+babysat
+gc
+monster
+modeler
+riscv-2-x86
